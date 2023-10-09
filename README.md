@@ -1,3 +1,7 @@
+
+
+[![Logo](https://github.com/AnshulGoyal589/AnshulGoyal589/raw/main/banner.png)](https://github.com/AnshulGoyal589/AnshulGoyal589/raw/main/banner.png)
+
 <h1 align="center">Hi 👋, I'm Anshul Goyal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
